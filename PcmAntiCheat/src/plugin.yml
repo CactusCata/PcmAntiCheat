@@ -1,0 +1,14 @@
+name: PcmAntiCheat
+author: CactusCata
+main: fr.cactuscata.pcmanticheat.PcmAntiCheat
+version: 1.0.0
+commands:
+   verif:
+    description: Permet de regarder le nombre de click par seconde que fait un joueur
+    permission: pcm.verif
+    usage: /<command> [joueur]
+    
+  cheater:
+    description: Permet de regarder les cheaters
+    permission: pcm.cheater
+    usage: /<command>
